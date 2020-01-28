@@ -1,1 +1,1 @@
-# Codeigniter-PHP-Proposal-AdminFront
+# Codeigniter-PHP-SchoolManagement
